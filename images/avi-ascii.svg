@@ -1,0 +1,708 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="592"
+height="526"
+viewBox="0 0 592 526">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<style>
+text{
+font-family:'Cascadia Mono','Consolas','Courier New',monospace;
+font-size:7px;
+fill:#c9d1d9;
+white-space:pre;
+dominant-baseline:hanging;
+}
+</style>
+
+<text x="20" y="15" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.00s"
+dur="0.01s"
+fill="freeze"/>
+                                                                                                                   
+</text>
+
+<text x="20" y="23" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.05s"
+dur="0.01s"
+fill="freeze"/>
+                                                                                                                   
+</text>
+
+<text x="20" y="31" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.10s"
+dur="0.01s"
+fill="freeze"/>
+                                                                                                                   
+</text>
+
+<text x="20" y="39" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.15s"
+dur="0.01s"
+fill="freeze"/>
+                                                 .``:-----::``.                                                    
+</text>
+
+<text x="20" y="47" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.20s"
+dur="0.01s"
+fill="freeze"/>
+                                             `:=+**ccccccccssscc+-`.                                               
+</text>
+
+<text x="20" y="55" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.25s"
+dur="0.01s"
+fill="freeze"/>
+                                          `-+*****csssssssss#s#####s+:.                                            
+</text>
+
+<text x="20" y="63" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.30s"
+dur="0.01s"
+fill="freeze"/>
+                                       `-+*ccccccccss#%%########ss##%#s+:                                          
+</text>
+
+<text x="20" y="71" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.35s"
+dur="0.01s"
+fill="freeze"/>
+                                     :+c****ccccccccs####sccsss###s######*:                                        
+</text>
+
+<text x="20" y="79" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.40s"
+dur="0.01s"
+fill="freeze"/>
+                                   `+ccccc**c*ccsssscccss#ss##############s*`                                      
+</text>
+
+<text x="20" y="87" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.45s"
+dur="0.01s"
+fill="freeze"/>
+                                  -*cccc*****c***ccssscss##%%%%%%%%%%%%%%###s=.                                    
+</text>
+
+<text x="20" y="95" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.50s"
+dur="0.01s"
+fill="freeze"/>
+                                .=c**********cccc**ccs#%%%#%%%%%%%%%%%%%%%##ssc:                                   
+</text>
+
+<text x="20" y="103" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.55s"
+dur="0.01s"
+fill="freeze"/>
+                               .=cccsscc***+++**ccscss###%%##########%%%%%#####c`                                  
+</text>
+
+<text x="20" y="111" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.60s"
+dur="0.01s"
+fill="freeze"/>
+                               =ss######ssccccccccccssssssccc*****cccs#%%######s=                                  
+</text>
+
+<text x="20" y="119" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.65s"
+dur="0.01s"
+fill="freeze"/>
+                              `c##%%%%%%###ssccccccccc**+==---=====++*c#########+                                  
+</text>
+
+<text x="20" y="127" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.70s"
+dur="0.01s"
+fill="freeze"/>
+                              :s#%%%%%%%%#scc**++++==-:::````:::::--=+*s#%#####s-                                  
+</text>
+
+<text x="20" y="135" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.75s"
+dur="0.01s"
+fill="freeze"/>
+                              :s#%%%%##sc+------::````.........```:--=+c#%%%%%#s`                                  
+</text>
+
+<text x="20" y="143" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.80s"
+dur="0.01s"
+fill="freeze"/>
+                              `s%%%#s*-:`....         ...........``:-==+c#%%%%%c.                                  
+</text>
+
+<text x="20" y="151" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.85s"
+dur="0.01s"
+fill="freeze"/>
+                               *%%%%c-``.`:::````.......```:--=+****+==+*s%%%%%*                                   
+</text>
+
+<text x="20" y="159" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.90s"
+dur="0.01s"
+fill="freeze"/>
+                               =#%%#+:`:==-=+cccc*+=-:::-=+cs#ssc***cssccc#%%%%=                                   
+</text>
+
+<text x="20" y="167" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.95s"
+dur="0.01s"
+fill="freeze"/>
+                               `s%%s--=+=---==+csssssscs##ssss*==++****c#%s#%%%-                                   
+</text>
+
+<text x="20" y="175" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.00s"
+dur="0.01s"
+fill="freeze"/>
+                                *%#sss===***ccss##scs@c*#%###*c#%#c##sc+*s*#%%#:                                   
+</text>
+
+<text x="20" y="183" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.05s"
+dur="0.01s"
+fill="freeze"/>
+                                =##s*s=+css*c##scs*+#*  :##c*=-*c**ss*+=+*+s%#s`                                   
+</text>
+
+<text x="20" y="191" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.10s"
+dur="0.01s"
+fill="freeze"/>
+                                =s#c-*=-=+****cc*=-+c   .=#*=====++=----*++s#cc.                                   
+</text>
+
+<text x="20" y="199" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.15s"
+dur="0.01s"
+fill="freeze"/>
+                                =**c-=c-:::::::``:=c`   .:+s+-``....`:-=+=+s#**.                                   
+</text>
+
+<text x="20" y="207" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.20s"
+dur="0.01s"
+fill="freeze"/>
+                                -:-c+-=+-:::::::-+*`    .`-=**=-::::----==+s#s+`                                   
+</text>
+
+<text x="20" y="215" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.25s"
+dur="0.01s"
+fill="freeze"/>
+                                ::=c*-:````:::--=-      .`-:`-:.  .``:--=++##c+.                                   
+</text>
+
+<text x="20" y="223" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.30s"
+dur="0.01s"
+fill="freeze"/>
+. .                             .-:=*+-:```..`:---=+=:.`-*sc**+`   .`:-=+*cssc-                                    
+</text>
+
+<text x="20" y="231" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.35s"
+dur="0.01s"
+fill="freeze"/>
+...                              :-:=*+=---:::==:-cssc*c#%%%%s*=:``:-=+*cccss+.                                    
+</text>
+
+<text x="20" y="239" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.40s"
+dur="0.01s"
+fill="freeze"/>
+`..                               -`:+*+++==+*c=::-=+*s##%##s**+++==+*ccccccc-                                     
+</text>
+
+<text x="20" y="247" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.45s"
+dur="0.01s"
+fill="freeze"/>
+..                                `-:+*****+*cc*+=++++++*cccscs##s++*cccc*=::                                      
+</text>
+
+<text x="20" y="255" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.50s"
+dur="0.01s"
+fill="freeze"/>
+..                                 ..`**+*+++*s#sssc****ccccs###sc=+*cccc=                                         
+</text>
+
+<text x="20" y="263" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.55s"
+dur="0.01s"
+fill="freeze"/>
+..                                    :c*+++=++=-===:`:::-=*cc+---=*cccc*.                                         
+</text>
+
+<text x="20" y="271" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.60s"
+dur="0.01s"
+fill="freeze"/>
+...                                    -cc***+=-::=+*cccsssc*=-::-+ccccc`                                          
+</text>
+
+<text x="20" y="279" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.65s"
+dur="0.01s"
+fill="freeze"/>
+...                                     -ccc**=:`...`::::::::`::-=*csss-                                           
+</text>
+
+<text x="20" y="287" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.70s"
+dur="0.01s"
+fill="freeze"/>
+`..                                      =cscc+-`..     ...``:-=+cssss*`                                           
+</text>
+
+<text x="20" y="295" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.75s"
+dur="0.01s"
+fill="freeze"/>
+. ..    .                                :+cs#sc+-``::-----==+*c####sc+.                                           
+</text>
+
+<text x="20" y="303" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.80s"
+dur="0.01s"
+fill="freeze"/>
+  ..                                     :==*s####sccssssss###%%%##scc*.                                           
+</text>
+
+<text x="20" y="311" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.85s"
+dur="0.01s"
+fill="freeze"/>
+  ...    .                               :=--+*s##%%%%%%%%%%%%%##ssccc*`                                           
+</text>
+
+<text x="20" y="319" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.90s"
+dur="0.01s"
+fill="freeze"/>
+   `.......                              :=:::-+*css##%%%%%%###sssccccc`                                           
+</text>
+
+<text x="20" y="327" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.95s"
+dur="0.01s"
+fill="freeze"/>
+   .`........                            :-::::-=+*ccccss#####ssscccccc:                                           
+</text>
+
+<text x="20" y="335" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.00s"
+dur="0.01s"
+fill="freeze"/>
+   .````......                           :=:::``:=+**cccs####sssscccccc`                                           
+</text>
+
+<text x="20" y="343" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.05s"
+dur="0.01s"
+fill="freeze"/>
+    .::``.....                           -=-::```:-=+*cs##sssssccccccsc`                                           
+</text>
+
+<text x="20" y="351" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.10s"
+dur="0.01s"
+fill="freeze"/>
+     `::`......                          -=:-::::::-=+*ccccsscc**cccc#c.                                           
+</text>
+
+<text x="20" y="359" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.15s"
+dur="0.01s"
+fill="freeze"/>
+     .`:`......                          -+::----::-==++**ccc***ccccc#+                                            
+</text>
+
+<text x="20" y="367" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.20s"
+dur="0.01s"
+fill="freeze"/>
+       ```...`..............             :*:::-----==++******++*cc**cs-                                            
+</text>
+
+<text x="20" y="375" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.25s"
+dur="0.01s"
+fill="freeze"/>
+       .`::```````......                 `c-```:::-==+++++++==+**+==+*:                                            
+</text>
+
+<text x="20" y="383" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.30s"
+dur="0.01s"
+fill="freeze"/>
+     ....`::`````......     ..            **`..```:----------=++=----+`                                            
+</text>
+
+<text x="20" y="391" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.35s"
+dur="0.01s"
+fill="freeze"/>
+    .``...`:`........... ..  ...          +%s+`....``::::```:--:::-+s*                                             
+</text>
+
+<text x="20" y="399" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.40s"
+dur="0.01s"
+fill="freeze"/>
+    .`:`  .```..............   .....      +%%%#c=:..`.......```:=*#%%+                                             
+</text>
+
+<text x="20" y="407" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.45s"
+dur="0.01s"
+fill="freeze"/>
+   ..`::. ..```...............  ....      =#####%#sc*+=----=+*s#%%%%%+                                             
+</text>
+
+<text x="20" y="415" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.50s"
+dur="0.01s"
+fill="freeze"/>
+  ...````.  ...................  ...      -#######%%%%%%%%%%%%%%%%###=                                             
+</text>
+
+<text x="20" y="423" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.55s"
+dur="0.01s"
+fill="freeze"/>
+  ....`....    ..............    ..       :#%#####################%##-                                             
+</text>
+
+<text x="20" y="431" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.60s"
+dur="0.01s"
+fill="freeze"/>
+  ......         ............  .          :######################%###:                                             
+</text>
+
+<text x="20" y="439" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.65s"
+dur="0.01s"
+fill="freeze"/>
+ .......          ...........             `s#########################`                                             
+</text>
+
+<text x="20" y="447" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.70s"
+dur="0.01s"
+fill="freeze"/>
+..``.....          ...........            .s###########sss#########%#.                                             
+</text>
+
+<text x="20" y="455" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.75s"
+dur="0.01s"
+fill="freeze"/>
+.......`..          ..........    ..      .c##########ssss#########%s.                                             
+</text>
+
+<text x="20" y="463" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.80s"
+dur="0.01s"
+fill="freeze"/>
+........`....    ..```................    .c%###########s#########%%c                                              
+</text>
+
+<text x="20" y="471" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.85s"
+dur="0.01s"
+fill="freeze"/>
+...... ..`....     .`::```...........  .   *%##%##s###############%%*                                              
+</text>
+
+<text x="20" y="479" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.90s"
+dur="0.01s"
+fill="freeze"/>
+....   ..`.....      ..`::``..    .....    =%#####ss##############%%*                                              
+</text>
+
+<text x="20" y="487" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="2.95s"
+dur="0.01s"
+fill="freeze"/>
+...   ...`````..     ...`````.             -##############s#######%%*                                              
+</text>
+
+<text x="20" y="495" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="3.00s"
+dur="0.01s"
+fill="freeze"/>
+. .......``:::``................ .....     -#####################%%%+                                              
+</text>
+
+<text x="20" y="503" opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="3.05s"
+dur="0.01s"
+fill="freeze"/>
+....````.`::::::````..```..........`::--:`.-#%###%###############%##+    ....                                      
+</text>
+
+<text x="20" y="511" fill="#39d353">
+█
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+</text>
+</svg>
