@@ -10,52 +10,6 @@
                 {
                   "contributionCount": 0,
                   "contributionLevel": "NONE",
-                  "date": "2025-09-21",
-                  "weekday": 0
-                },
-                {
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE",
-                  "date": "2025-09-22",
-                  "weekday": 1
-                },
-                {
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE",
-                  "date": "2025-09-23",
-                  "weekday": 2
-                },
-                {
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE",
-                  "date": "2025-09-24",
-                  "weekday": 3
-                },
-                {
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE",
-                  "date": "2025-09-25",
-                  "weekday": 4
-                },
-                {
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE",
-                  "date": "2025-09-26",
-                  "weekday": 5
-                },
-                {
-                  "contributionCount": 1,
-                  "contributionLevel": "SECOND_QUARTILE",
-                  "date": "2025-09-27",
-                  "weekday": 6
-                }
-              ]
-            },
-            {
-              "contributionDays": [
-                {
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE",
                   "date": "2025-09-28",
                   "weekday": 0
                 },
@@ -2440,6 +2394,16 @@
                   "contributionLevel": "NONE",
                   "date": "2026-09-26",
                   "weekday": 6
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "date": "2026-09-27",
+                  "weekday": 0
                 }
               ]
             }
