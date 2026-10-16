@@ -1,17 +1,25 @@
-# Hi, I'm Rishi 👋
+<div align="center">
 
-🎓 B.Tech Information Science and Engineering Student
+<h3><code>Rishipatel79@github ~ $ ./contributions.sh</code></h3>
 
-💻 Interested in Java, Python, Web Development, and AI Automation.
+<img src="images/contribution-heatmap.svg" width="860">
 
-## Skills
-- Java
-- Python
-- HTML, CSS, JavaScript
-- Git and GitHub
+<br><br>
 
-## Projects
-I'm working on coding projects to improve my programming and software development skills.
+<h3><code>Rishipatel79@github ~ $ whoami</code></h3>
 
-## Connect with me
-- GitHub: [@Rishipatel79](https://github.com/Rishipatel79)
+<table>
+<tr>
+
+<td valign="top">
+<img src="images/avi-ascii.svg" width="370">
+</td>
+
+<td valign="top">
+<img src="images/info-card.svg" width="490">
+</td>
+
+</tr>
+</table>
+
+</div>
